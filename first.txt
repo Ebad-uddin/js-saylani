@@ -1,0 +1,3 @@
+to push the code in on the remote repo by another user 
+user https link of the remote repo and type in the terminal 
+git remote set-url origin <repo Link> ie https://ghp<token>@github.com/username/reponame.git
